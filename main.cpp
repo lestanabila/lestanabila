@@ -1,6 +1,9 @@
 #include <iostream>
 #define MAX 10
 using namespace std;
+//Nama : Lesta Nabila
+//Nim : 1121031047
+//Kelas : Informatika A
 
 //Deklarasi struct tumpukan
 struct Stack {
